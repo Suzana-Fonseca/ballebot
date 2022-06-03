@@ -12,7 +12,7 @@ O projeto foi finalizado de acordo com as seguintes tarefas:
 - [x] Criação de HTML
 - [x] Criação de CSS
 
-### 🤝 Colaboradores
+## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
